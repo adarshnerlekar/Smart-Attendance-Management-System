@@ -1,7 +1,5 @@
-# Smart-Attendance-Management-System
-  Smart Attendance Management System is a job-ready backend application designed to automate and manage attendance efficiently for educational institutions. The system provides secure role-based access and accurate attendance tracking with monthly reports, ensuring reliability and scalability.
-
 # 🟢 Smart Attendance Management System
+  Smart Attendance Management System is a job-ready backend application designed to automate and manage attendance efficiently for educational institutions. The system provides secure role-based access and accurate attendance tracking with monthly reports, ensuring reliability and scalability.
 
 A **role-based attendance management system** built using **Java Spring Boot**, **Spring Security**, and **Spring Data JPA**.  
 This system simplifies attendance tracking for schools, colleges, and organizations by providing secure authentication, dashboards, and automated reporting.
